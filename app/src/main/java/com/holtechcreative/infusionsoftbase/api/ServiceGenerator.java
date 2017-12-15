@@ -23,7 +23,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class ServiceGenerator {
 
     public static final String API_BASE_URL = "https://api.infusionsoft.com/crm/rest/v1/";
-    public static final String API_TOKEN_URL = "https://api.infusionsoft.com/token/";
+    public static final String API_TOKEN_URL = "https://api.infusionsoft.com";
     public static final String API_OAUTH_REDIRECT = "com.holtechcreative.infusionsoftbase://isoauth";
     public static final String CLIENT_SECRET = "mnfzhv5g4z";
     public static final String CLIENT_ID = "e575b4amyazamj2zxzsrfxvf";
